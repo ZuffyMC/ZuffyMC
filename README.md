@@ -27,22 +27,6 @@ Some of my resources may be released for free to support the community, while th
 
 ---
 
-## What I Do
-
-- Minecraft plugin development
-- Minecraft server setup and optimization
-- Discord bot development
-- Website development
-- Dashboard and panel development
-- Server tools and utilities
-- Java and Bedrock server integration
-- Plugin configuration and setup
-- Free community resources
-- Private and maintained projects
-- Documentation, changelogs, and release management
-
----
-
 ## Project Policy
 
 Most of my public projects are planned to be released as free resources for the community.
