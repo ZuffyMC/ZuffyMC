@@ -2,9 +2,9 @@
 
 # Hey, I'm ZuffyMC 👋
 
-### Minecraft Server Developer • Plugin Creator • Performance Optimizer
+### Developer • Plugin Creator • Bot Developer • Web Builder
 
-I build useful Minecraft server tools, plugins, and resources for the community.  
+I build useful tools, plugins, bots, websites, and digital resources for the community.  
 Some of my projects will be shared for free, while the source code may remain private.
 
 [![Website](https://img.shields.io/badge/Website-NexusCloud.id-00AEEF?style=for-the-badge)](https://nexuscloud.id)
@@ -17,37 +17,40 @@ Some of my projects will be shared for free, while the source code may remain pr
 
 ## About Me
 
-I'm a Minecraft server developer from Indonesia with experience in server setup, plugin configuration, performance optimization, and Java/Bedrock integration.
+I'm a developer from Indonesia with experience in Minecraft server development, plugin creation, Discord bot development, website development, and server optimization.
 
-I focus on creating clean, useful, and reliable resources for Minecraft server owners, especially for communities that need practical tools without complicated setup.
+I focus on creating clean, useful, and reliable digital resources for communities, server owners, and online projects. My goal is to build tools that are simple to use, easy to understand, and helpful in real-world usage.
 
-Currently, I am developing Minecraft plugins and server utilities that are designed to be simple, lightweight, and helpful for public servers, survival servers, and community-based projects.
+I work on different types of projects, including Minecraft resources, Discord automation tools, websites, dashboards, server utilities, and community-focused systems.
 
-Some of my resources may be released for free to support the Minecraft community, while the source code may remain private for security, maintenance, and project protection reasons.
+Some of my resources may be released for free to support the community, while the source code may remain private for security, maintenance, and project protection reasons.
 
 ---
 
 ## What I Do
 
 - Minecraft plugin development
-- Server performance optimization
+- Minecraft server setup and optimization
+- Discord bot development
+- Website development
+- Dashboard and panel development
+- Server tools and utilities
 - Java and Bedrock server integration
 - Plugin configuration and setup
-- Paper/Spigot server tools
-- Free Minecraft server resources
-- Private and community-focused projects
+- Free community resources
+- Private and maintained projects
 - Documentation, changelogs, and release management
 
 ---
 
 ## Project Policy
 
-Most of my public projects are planned to be released as free resources for the Minecraft community.
+Most of my public projects are planned to be released as free resources for the community.
 
 Please note:
 
 - Some projects may be free to use but not open source
-- Source code may remain private for security and maintenance reasons
+- Source code may remain private for security, maintenance, and project protection reasons
 - Public repositories may contain documentation, releases, changelogs, and usage guides
 - Redistribution, resale, or claiming my work as your own is not allowed
 - Always download my resources from official pages only
@@ -72,8 +75,9 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 | Project Type | Status |
 |---|---|
 | Minecraft Plugins | Active Development |
+| Discord Bots | In Progress |
+| Website Development | In Progress |
 | Server Utilities | Planned |
-| Configuration Resources | Planned |
 | Community Tools | Planned |
 | Free Releases | In Progress |
 
@@ -83,7 +87,7 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,github,linux,mysql,cloudflare" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css,react,nextjs,github,linux,mysql,cloudflare" />
 
 </div>
 
@@ -92,8 +96,8 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-Plugin%20Development-red?style=for-the-badge)
-![Paper](https://img.shields.io/badge/Paper-Spigot%20Servers-blue?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Minecraft-Server%20Tools-green?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Discord%20Bots-green?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Server%20Management-black?style=for-the-badge)
 
 </div>
@@ -124,6 +128,6 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 
 <div align="center">
 
-### Building useful Minecraft resources, one project at a time.
+### Building useful digital resources, one project at a time.
 
 </div>
