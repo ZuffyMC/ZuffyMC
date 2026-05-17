@@ -2,7 +2,7 @@
 
 # Hey, I'm ZuffyMC 👋
 
-### Developer • Plugin Creator • Bot Developer • Web Builder
+### Plugin Creator • Bot Developer • Web Builder
 
 I build useful tools, plugins, bots, websites, and digital resources for the community.  
 Some of my projects will be shared for free, while the source code may remain private.
