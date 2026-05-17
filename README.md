@@ -104,18 +104,6 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![ZuffyMC GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZuffyMC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)
-
-</div>
-
-> GitHub stats may not appear correctly if the stats service is rate-limited or if there are not enough public repositories yet.
-
----
-
 ## Connect
 
 - Website: https://nexuscloud.id
