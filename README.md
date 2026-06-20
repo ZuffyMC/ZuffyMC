@@ -55,19 +55,6 @@ Instead of instantly teleporting players like a normal warp menu, SimpleGPS guid
 
 ---
 
-## Current Focus
-
-| Project Type | Status |
-|---|---|
-| Minecraft Plugins | Active Development |
-| Discord Bots | In Progress |
-| Website Development | In Progress |
-| Server Utilities | Planned |
-| Community Tools | Planned |
-| Modrinth Releases | In Progress |
-
----
-
 ## Tech & Tools
 
 <div align="center">
@@ -102,29 +89,125 @@ Instead of instantly teleporting players like a normal warp menu, SimpleGPS guid
 
 </div>
 
-### Minecraft Plugin Stack
+### Development Stack
 
-| Tool / Technology | Usage |
-|---|---|
-| Java 21 | Main language for modern Minecraft plugin development |
-| Gradle | Build automation, dependency management, and project setup |
-| Maven | Alternative build system for structured Java projects |
-| Paper API | Modern Minecraft server plugin development |
-| Bukkit API | Plugin compatibility and common server features |
-| Adventure API | Modern text components, messages, and titles |
-| MiniMessage | Clean gradient, color, and rich text formatting |
-| YAML | Plugin configuration, messages, and data storage |
-| MySQL | Optional database storage for larger systems |
-| SQLite | Lightweight local storage for simple plugin data |
-| Redis | Cache and fast temporary data handling |
-| Git & GitHub | Version control, release notes, and documentation |
-| GitHub Actions | Automated build, testing, and release workflows |
-| Docker | Container-based testing and deployment environment |
-| Nginx | Reverse proxy and web service management |
-| Linux / Ubuntu | Server environment, deployment, and management |
-| Postman | API testing for web services and integrations |
-| npm / pnpm | Package management for web and bot projects |
-| Markdown | Documentation, README files, and changelogs |
+<div align="center">
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Tool / Technology</th>
+    <th align="left">Usage</th>
+  </tr>
+  <tr>
+    <td>Minecraft Plugin</td>
+    <td>Java 21</td>
+    <td>Main language for building modern, stable, and optimized Minecraft plugins.</td>
+  </tr>
+  <tr>
+    <td>Minecraft Plugin</td>
+    <td>Paper API</td>
+    <td>Modern Minecraft server API for plugin development, performance, and advanced server features.</td>
+  </tr>
+  <tr>
+    <td>Minecraft Plugin</td>
+    <td>Bukkit API</td>
+    <td>Compatibility layer for common plugin features, commands, events, and server interactions.</td>
+  </tr>
+  <tr>
+    <td>Build Tools</td>
+    <td>Gradle</td>
+    <td>Build automation, dependency management, project setup, and plugin packaging.</td>
+  </tr>
+  <tr>
+    <td>Build Tools</td>
+    <td>Maven</td>
+    <td>Structured Java project management, dependency control, and alternative build workflow.</td>
+  </tr>
+  <tr>
+    <td>Text & UI</td>
+    <td>Adventure API</td>
+    <td>Modern text components for messages, titles, actionbars, and rich player feedback.</td>
+  </tr>
+  <tr>
+    <td>Text & UI</td>
+    <td>MiniMessage</td>
+    <td>Clean gradient, color, hover, click, and modern formatting support for plugin messages.</td>
+  </tr>
+  <tr>
+    <td>Configuration</td>
+    <td>YAML</td>
+    <td>Plugin configuration, customizable messages, GUI settings, and lightweight data storage.</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MySQL</td>
+    <td>Persistent database storage for larger server systems, player data, and advanced features.</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>SQLite</td>
+    <td>Lightweight local database storage for simple plugin systems and small server utilities.</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>Redis</td>
+    <td>Fast cache system and temporary data handling for scalable server-side features.</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git & GitHub</td>
+    <td>Version control, changelogs, release notes, documentation, and project tracking.</td>
+  </tr>
+  <tr>
+    <td>Automation</td>
+    <td>GitHub Actions</td>
+    <td>Automated build workflows, testing process, and release preparation.</td>
+  </tr>
+  <tr>
+    <td>Deployment</td>
+    <td>Docker</td>
+    <td>Container-based testing, isolated development environment, and service deployment.</td>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td>Linux / Ubuntu</td>
+    <td>Server environment for hosting, deployment, maintenance, and production management.</td>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td>Nginx</td>
+    <td>Reverse proxy, web service management, routing, and production web configuration.</td>
+  </tr>
+  <tr>
+    <td>Web & Bots</td>
+    <td>Node.js</td>
+    <td>Backend services, Discord bots, automation tools, and community-focused systems.</td>
+  </tr>
+  <tr>
+    <td>Web & Bots</td>
+    <td>Discord.js</td>
+    <td>Discord bot development, server automation, command systems, and community tools.</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>npm / pnpm</td>
+    <td>Package management for JavaScript, TypeScript, web projects, and bot development.</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>Postman</td>
+    <td>API testing for web services, dashboards, integrations, and backend features.</td>
+  </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>Markdown</td>
+    <td>README files, documentation pages, changelogs, setup guides, and release information.</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
