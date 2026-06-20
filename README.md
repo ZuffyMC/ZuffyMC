@@ -72,7 +72,7 @@ Instead of instantly teleporting players like a normal warp menu, SimpleGPS guid
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,gradle,maven,js,ts,nodejs,html,css,react,nextjs,github,git,linux,mysql,cloudflare,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,gradle,maven,js,ts,nodejs,html,css,react,nextjs,github,git,linux,mysql,cloudflare,idea,vscode,docker,postgres,sqlite,redis,nginx,ubuntu,bash,md,discordjs,npm,pnpm,postman,githubactions" />
 
 </div>
 
@@ -89,9 +89,15 @@ Instead of instantly teleporting players like a normal warp menu, SimpleGPS guid
 ![MiniMessage](https://img.shields.io/badge/MiniMessage-Modern%20Formatting-1BD96A?style=for-the-badge)
 ![YAML](https://img.shields.io/badge/YAML-Plugin%20Configuration-blue?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-Discord%20Bots-green?style=for-the-badge)
+![Discord.js](https://img.shields.io/badge/Discord.js-Bot%20Development-5865F2?style=for-the-badge)
 ![Web](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Server%20Management-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Container%20Deployment-2496ED?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Database%20Systems-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database%20Systems-4169E1?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-Lightweight%20Storage-003B57?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-Cache%20System-DC382D?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS%20%26%20Security-F38020?style=for-the-badge)
 
 </div>
@@ -109,8 +115,16 @@ Instead of instantly teleporting players like a normal warp menu, SimpleGPS guid
 | MiniMessage | Clean gradient, color, and rich text formatting |
 | YAML | Plugin configuration, messages, and data storage |
 | MySQL | Optional database storage for larger systems |
+| SQLite | Lightweight local storage for simple plugin data |
+| Redis | Cache and fast temporary data handling |
 | Git & GitHub | Version control, release notes, and documentation |
-| Linux | Server environment, deployment, and management |
+| GitHub Actions | Automated build, testing, and release workflows |
+| Docker | Container-based testing and deployment environment |
+| Nginx | Reverse proxy and web service management |
+| Linux / Ubuntu | Server environment, deployment, and management |
+| Postman | API testing for web services and integrations |
+| npm / pnpm | Package management for web and bot projects |
+| Markdown | Documentation, README files, and changelogs |
 
 ---
 
