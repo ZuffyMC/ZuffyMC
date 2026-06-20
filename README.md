@@ -5,10 +5,10 @@
 ### Plugin Creator • Bot Developer • Web Builder
 
 I build useful tools, plugins, bots, websites, and digital resources for the community.  
-Some of my projects will be shared for free, while the source code may remain private.
+Some of my projects are shared for free through Modrinth, while the source code may remain private.
 
 [![Website](https://img.shields.io/badge/Website-NexusCloud.id-00AEEF?style=for-the-badge)](https://nexuscloud.id)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-Zuffyyy-orange?style=for-the-badge)](https://www.spigotmc.org/members/zuffyyy.2049081/)
+[![Modrinth](https://img.shields.io/badge/Modrinth-ZuffyMC-1BD96A?style=for-the-badge)](https://modrinth.com/user/ZuffyMC)
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
 
 </div>
@@ -23,21 +23,21 @@ I focus on creating clean, useful, and reliable digital resources for communitie
 
 I work on different types of projects, including Minecraft resources, Discord automation tools, websites, dashboards, server utilities, and community-focused systems.
 
-Some of my resources may be released for free to support the community, while the source code may remain private for security, maintenance, and project protection reasons.
+Some of my resources may be released for free on Modrinth to support the community, while the source code may remain private for security, maintenance, and project protection reasons.
 
 ---
 
 ## Project Policy
 
-Most of my public projects are planned to be released as free resources for the community.
+Most of my public resources are planned to be released through Modrinth as free resources for the community.
 
 Please note:
 
 - Some projects may be free to use but not open source
 - Source code may remain private for security, maintenance, and project protection reasons
-- Public repositories may contain documentation, releases, changelogs, and usage guides
+- Public pages may contain documentation, releases, changelogs, and usage guides
 - Redistribution, resale, or claiming my work as your own is not allowed
-- Always download my resources from official pages only
+- Always download my resources from my official Modrinth page only
 
 ---
 
@@ -45,12 +45,13 @@ Please note:
 
 ### SimpleGPS — GPS Menu, Tracking & Waypoints
 
-SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, waypoint management, and simple server utility features.
+SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, waypoint management, and immersive server utility features.
+
+Instead of instantly teleporting players like a normal warp menu, SimpleGPS guides them to their destination using real-time direction tracking, actionbar navigation, distance information, and visual waypoint feedback.
 
 **Download:**
 
-[![SpigotMC](https://img.shields.io/badge/Download-SpigotMC-orange?style=for-the-badge)](https://www.spigotmc.org/resources/simplegps-gps-menu-tracking-waypoints.130798/)
-[![Modrinth](https://img.shields.io/badge/Download-Modrinth-1BD96A?style=for-the-badge)](https://modrinth.com/plugin/simplegps)
+[![Download on Modrinth](https://img.shields.io/badge/Download-Modrinth-1BD96A?style=for-the-badge)](https://modrinth.com/plugin/simplegps)
 
 ---
 
@@ -63,7 +64,7 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 | Website Development | In Progress |
 | Server Utilities | Planned |
 | Community Tools | Planned |
-| Free Releases | In Progress |
+| Modrinth Releases | In Progress |
 
 ---
 
@@ -91,8 +92,7 @@ SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, way
 ## Connect
 
 - Website: https://nexuscloud.id
-- SpigotMC: https://www.spigotmc.org/members/zuffyyy.2049081/
-- SimpleGPS on SpigotMC: https://www.spigotmc.org/resources/simplegps-gps-menu-tracking-waypoints.130798/
+- Modrinth: https://modrinth.com/user/ZuffyMC
 - SimpleGPS on Modrinth: https://modrinth.com/plugin/simplegps
 - GitHub: https://github.com/ZuffyMC
 
