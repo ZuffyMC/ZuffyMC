@@ -2,7 +2,7 @@
 
 # Hey, I'm ZuffyMC 👋
 
-### Plugin Creator • Bot Developer • Web Builder
+### Minecraft Developer • Website Builder
 
 I build useful tools, plugins, bots, websites, and digital resources for the community.  
 Some of my projects are shared for free through Modrinth, while the source code may remain private.
