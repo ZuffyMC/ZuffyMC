@@ -41,20 +41,6 @@ Please note:
 
 ---
 
-## Featured Resource
-
-### SimpleGPS — GPS Menu, Tracking & Waypoints
-
-SimpleGPS is one of my Minecraft plugin resources focused on GPS navigation, waypoint management, and immersive server utility features.
-
-Instead of instantly teleporting players like a normal warp menu, SimpleGPS guides them to their destination using real-time direction tracking, actionbar navigation, distance information, and visual waypoint feedback.
-
-**Download:**
-
-[![Download on Modrinth](https://img.shields.io/badge/Download-Modrinth-1BD96A?style=for-the-badge)](https://modrinth.com/plugin/simplegps)
-
----
-
 ## Tech & Tools
 
 <div align="center">
@@ -215,7 +201,6 @@ Instead of instantly teleporting players like a normal warp menu, SimpleGPS guid
 
 - Website: https://nexuscloud.id
 - Modrinth: https://modrinth.com/user/ZuffyMC
-- SimpleGPS on Modrinth: https://modrinth.com/plugin/simplegps
 - GitHub: https://github.com/ZuffyMC
 
 ---
